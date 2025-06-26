@@ -42,7 +42,7 @@
 ---
 
 ### 👥 Conecta conmigo
-- 💼 [LinkedIn](www.linkedin.com/in/sergio-roque-hernandez)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergio-roque-hern%C3%A1ndez-1b645b319/)
 - 📧 `sergioroquehernandez93@gmail.com`
 
 ---
