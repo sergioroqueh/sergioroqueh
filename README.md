@@ -44,6 +44,8 @@
 ### 👥 Conecta conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergio-roque-hern%C3%A1ndez-1b645b319/)
 - 📧 `sergio.roque.ml@gmail.com`
+- 📧 `sergioroquehernandez93@gmail.com`
+
 
 ---
 
