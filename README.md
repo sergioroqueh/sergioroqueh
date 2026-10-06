@@ -1,73 +1,110 @@
-# 👋 ¡Hola! Soy **Sergio Roque Hernández**  
-### 👨‍💻 Científico de Datos | Machine Learning | Analista de Datos  
+# 👋 Hola, soy Sergio Roque Hernández
 
-💡 **Apasionado por descubrir patrones ocultos en los datos y convertirlos en soluciones reales.**  
-Combino análisis, programación y curiosidad para crear modelos que explican, predicen y ayudan a decidir mejor.
+### ⚡ Electricidad · Software · Datos · Automatización
 
----
+Trabajo en el sector eléctrico y desarrollo herramientas digitales orientadas a resolver problemas técnicos reales.
 
-### 🎓 Formación y Certificaciones  
+Actualmente estoy construyendo **CuadernoTécnico**, una plataforma para identificar instalaciones y equipos mediante QR y mantener accesible su documentación, histórico e información técnica durante toda su vida útil.
 
-- 🎓 **Ciencia de Datos y Machine Learning** — [4Geeks Academy](https://4geeksacademy.com/es)  
-  Formación intensiva orientada a proyectos reales: análisis exploratorio, limpieza y transformación de datos, modelado predictivo, deep learning y despliegue de modelos en la nube.  
-  - Proyecto final: *“Predicción temprana de depresión a partir de datos de salud pública (BRFSS 2022)”*, reconocido como uno de los mejores del grupo por su solidez técnica y claridad analítica.  
-
-- 🐍 **Certificación PCEP (Python Entry Level)** — [edube.org](https://verify.openedg.org/?id=Cdb1.UEqX.NvDu)  
-  Certificación internacional que avala conocimientos fundamentales en Python, estructuras de datos, control de flujo y programación modular.
+🔗 https://cuadernotecnico.es
 
 ---
 
-🌍 **Ubicación:** Madrid, España  
+## 🚀 Proyecto principal
+
+### ⚡ CuadernoTécnico
+
+**La memoria técnica de tus instalaciones.**
+
+CuadernoTécnico nace de un problema muy habitual en mantenimiento e instalaciones:
+
+- esquemas que no están donde deberían;
+- documentación desactualizada;
+- información repartida entre carpetas, correos y personas;
+- intervenciones que no dejan histórico;
+- técnicos que vuelven a una instalación y tienen que empezar de cero.
+
+La plataforma conecta el activo físico con su información mediante QR y permite centralizar:
+
+- 📄 documentación técnica;
+- 🖼️ fotografías;
+- ⚡ datos de equipos e instalaciones;
+- 🔧 intervenciones e histórico;
+- 👥 acceso por roles;
+- 📦 exportación de la instalación.
+
+Actualmente en fase de **MVP / validación con empresas del sector**.
 
 ---
 
-### 🚀 Tecnologías y Herramientas  
+## 🧠 Mi perfil
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python) 
-![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-yellow?logo=pandas) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3%2B-orange?logo=scikit-learn) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12%2B-FF6F00?logo=tensorflow) 
-![CatBoost](https://img.shields.io/badge/CatBoost-1.2%2B-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-green?logo=matplotlib) 
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-blue)  
+Mi recorrido combina tres áreas que normalmente aparecen separadas:
+
+**⚡ Electricidad e instalaciones técnicas**  
+Trabajo con proyectos, cuadros eléctricos, instalaciones BT, mantenimiento y documentación técnica.
+
+**💻 Desarrollo de software**  
+Creo aplicaciones y herramientas orientadas a resolver necesidades reales, desde SaaS hasta automatización y utilidades técnicas.
+
+**📊 Datos y Machine Learning**  
+Formación en Data Science & Machine Learning, Python, SQL, modelado predictivo y análisis de datos.
+
+Esa combinación me interesa especialmente porque permite construir tecnología desde el conocimiento del problema, no solo desde el código.
+
+---
+
+## 🛠️ Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-blue?logo=postgresql)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0%2B-red)
-![Flask](https://img.shields.io/badge/Flask-2.2%2B-black?logo=flask) 
-![Streamlit](https://img.shields.io/badge/Streamlit-1.24%2B-red)
-![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black?logo=github) 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Data%20Services-blue?logo=microsoftazure)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-3FCF8E?logo=supabase)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black?logo=github)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-FF6F00?logo=tensorflow)
 
 ---
 
-### 📈 Qué encontrarás en mi GitHub  
+## 📌 Algunos proyectos
 
-- 🧠 **Modelos de Machine Learning** para clasificación, regresión y detección de anomalías.  
-- 📊 **EDA y visualización de datos** con herramientas estadísticas y gráficas.  
-- 🗃️ **Bases de datos SQL** diseñadas desde cero y conectadas con pipelines de Python.  
-- 🧩 **Aplicaciones web interactivas** en Flask y Streamlit para desplegar modelos y dashboards.  
-- 📄 **Proyectos completos** con documentación técnica, notebooks, código limpio y resultados reproducibles.
+### ⚡ CuadernoTécnico
+SaaS para documentación, identificación y memoria técnica de instalaciones.
 
----
+### 🧠 Machine Learning
+Modelos de clasificación, regresión y análisis predictivo aplicados a datos reales.
 
-### 👥 Conecta conmigo  
+### 🤖 Automatización
+Scripts, bots y herramientas para automatizar procesos y análisis.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sergio-roque-hern%C3%A1ndez-1b645b319/)  
-- 📧 `sergio.roque.ml@gmail.com`  
-- 📧 `sergioroquehernandez93@gmail.com`  
+### 📊 Data Analytics
+EDA, SQL, visualización y pipelines de datos.
 
 ---
 
-### ⚡️ Sobre mí  
+## 🎓 Formación y certificaciones
 
-Mi recorrido combina la precisión técnica del trabajo con electricidad industrial y la visión analítica del *data scientist*.  
-Esa mezcla me ha enseñado a **ver patrones donde otros solo ven cables o números**.  
-
-Me interesa aplicar ciencia de datos en áreas como **salud pública, empleo, energía y deporte**, siempre con un enfoque práctico y socialmente útil.  
-
-Actualmente desarrollo proyectos propios de **machine learning aplicado a datos reales**, integrando scraping, bases de datos relacionales y modelos predictivos en pipelines automatizados.  
-
-Siempre abierto a colaborar, aprender y construir tecnología que aporte valor tangible.  
+- **Data Science & Machine Learning** — 4Geeks Academy
+- **PCEP — Certified Entry-Level Python Programmer**
+- Desarrollo continuo de proyectos propios de software, automatización y análisis.
 
 ---
 
-© 2025 — **Sergio Roque Hernández**
+## 📍 Madrid, España
+
+## 📫 Contacto
+
+- 🌐 https://cuadernotecnico.es
+- 💼 LinkedIn
+- 📧 info@cuadernotecnico.es
+
+---
+
+### Sobre mí
+
+Me gusta construir cosas que tengan una aplicación real.
+
+Mi experiencia profesional en instalaciones eléctricas me permite detectar problemas que muchas veces no aparecen desde fuera del sector, y el software me da la posibilidad de convertirlos en herramientas.
+
+Actualmente mi principal foco está en **CuadernoTécnico** y en seguir desarrollando soluciones en la intersección entre ingeniería, automatización, software y datos.
