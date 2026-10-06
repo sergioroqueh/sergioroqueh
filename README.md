@@ -4,9 +4,7 @@
 
 Trabajo en el sector eléctrico y desarrollo herramientas digitales orientadas a resolver problemas técnicos reales.
 
-Actualmente estoy construyendo **CuadernoTécnico**, una plataforma para identificar instalaciones y equipos mediante QR y mantener accesible su documentación, histórico e información técnica durante toda su vida útil.
-
-🔗 https://cuadernotecnico.es
+Actualmente estoy construyendo **[CuadernoTécnico](https://cuadernotecnico.es)**, una plataforma para identificar instalaciones y equipos mediante QR y mantener accesible su documentación, histórico e información técnica durante toda su vida útil.
 
 ---
 
@@ -34,6 +32,8 @@ La plataforma conecta el activo físico con su información mediante QR y permit
 - 📦 exportación de la instalación.
 
 Actualmente en fase de **MVP / validación con empresas del sector**.
+
+🔗 **[cuadernotecnico.es](https://cuadernotecnico.es)**
 
 ---
 
@@ -95,13 +95,13 @@ EDA, SQL, visualización y pipelines de datos.
 
 ## 📫 Contacto
 
-- 🌐 https://cuadernotecnico.es
-- 💼 LinkedIn
-- 📧 info@cuadernotecnico.es
+- 🌐 [cuadernotecnico.es](https://cuadernotecnico.es)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergio-roque-hernandez)
+- 📧 [info@cuadernotecnico.es](mailto:info@cuadernotecnico.es)
 
 ---
 
-### Sobre mí
+## Sobre mí
 
 Me gusta construir cosas que tengan una aplicación real.
 
